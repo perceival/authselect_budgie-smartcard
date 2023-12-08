@@ -1,5 +1,5 @@
 # authselect_budgie-smartcard
-Tweaked authselect smartcard profile to work with Yubikeys (Fedora/Ultramarine).
+Tweaked authselect smartcard profile to work with Yubikeys (Fedora/Ultramarine with Budgie DDE).
 An idea is:
 - to be forced to logon using password to Budgie desktop since that is required to unlock keyring.
 - to be able to unlock Budgie screen lock with Yubikey and PIN.
